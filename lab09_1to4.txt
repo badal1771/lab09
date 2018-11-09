@@ -1,0 +1,28 @@
+question 1
+answer
+1) *p3 = S
+2) *p3 = T
+3) p3 = 6940;
+4)*p1 = S
+5) p1 = 9772;
+question no 02
+answer 
+*p =75
+question no 03
+answer
+in this c is the character whereas c is integer type ;so they cant be equal
+question no 04
+answer
+sequence wise display
+temp = A
+temp = C
+temp = B
+temp = A
+ptr = 4435
+temp = B
+temp = C
+ptr = 4434 
+temp = B 
+temp = B
+temp = A
+temp = A
